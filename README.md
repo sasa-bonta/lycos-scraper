@@ -6,4 +6,4 @@
 5. run the project: `npm run start`
 
 # How to use
-Ex. to search for "moldova" use the following link: http://localhost:3000/search?q=moldova
+Ex. to search for "moldova" use the following url: http://localhost:3000/search?q=moldova
