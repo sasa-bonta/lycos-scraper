@@ -4,10 +4,10 @@
 version: '3.0'
 services:
 	parser:  
-    	image: lycos-parser 
+    	image: sasabonta/lycos-parser 
     	restart: always  
     	ports:  
-        	- "8000:3000"
+        	- "3000:3000"
 ```
 ## b) Run the project on local
 1. install node: https://nodejs.org/en/download
